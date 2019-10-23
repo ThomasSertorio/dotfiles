@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = thomas.sertorio@gmail.com
+	email = thomas@poulpe.co
 	name = Thomas
